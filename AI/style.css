@@ -1,0 +1,195 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+ 
+ body{
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    line-height: 1.2;
+}
+/* clear */
+.clearfix{
+clear: both;
+
+}
+.logo-text{
+    color: #999;
+    font-weight: 700;
+    font-size: 20px;
+}
+.logo{
+    height: 24px;
+    width: 24px;
+    color: white;
+}
+ .main_header{
+background-color: #2d72c2;
+margin: 0px;
+}
+.main_header_brend{
+display: inline-block;
+vertical-align: middle;
+}
+.main_header_brend a{
+display: flex;
+align-items: center;
+text-decoration: none;
+margin-left: 12px;
+gap: 6px;
+}
+
+.container{
+width: 1200px;
+margin: 0 auto;
+
+}
+
+.main_navigation_item{
+
+    display: inline-block;
+vertical-align: middle;
+padding: 10px;
+} 
+.main_navigation{
+display: inline-block;
+vertical-align: middle;
+}
+.main_navigation a{
+   margin-left: 50px;
+color:white;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 14px;
+font-weight: 500;
+}
+.main_navigation{
+margin-left: 800px;
+}
+.main_navigation_item a:hover{
+color: cornflowerblue;
+background-color: rgb(231, 216, 216);
+}
+.section-header{
+    background-image: url("https://imageio.forbes.com/specials-images/imageserve/60213a6694af6361fcb98437/AI--Artificial-Intelligence--concept--Deep-learning--GUI--Graphical-User-Interface--/960x0.jpg?format=jpg&width=960");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:80vh ;
+    position: relative;
+    }
+    .register{
+    width: 450px;
+    height: 550px;
+    background-color: #fff;
+    border-radius: 10px;
+    position: absolute;
+    right: 1%;
+    
+    }
+    .form_cl div{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    }
+    .Button{
+margin-left: 150px;
+font-size: 20px;
+background-color: #2d72c2;
+color: white;
+    }
+    .Button:hover{
+        background-color: #333;
+    }
+    .input_class {
+   margin-left: 50px;
+   font-size: 20px;
+    }
+.kirish h1{
+
+position: absolute;
+margin-top: 400px;
+margin-left: 100px;
+}
+.kirish h3{
+
+    position: absolute;
+    margin-top: 410px;
+   
+    margin-left: 100px;
+    }
+   .information_head{
+text-align: center;
+}
+
+.information_head h2{
+margin-bottom: 10px;
+}
+.information_head{
+    background-image: url("./inf.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:500px ;
+    position: relative;
+    padding-top: 150px;
+    }
+    .information_head div{
+    background-color:  rgba(255, 255, 255, 0.538);
+    font-size: 24px;
+    }
+    .soha_sec > div{
+    width: 50%;
+    float: left;
+    }
+    
+.centr{
+text-align: center;
+}
+.soha img{
+    width: 500px;
+padding-left: 80px;
+}
+.mt70{
+   
+background-color: #2e3a69;
+}
+.mt70 li{
+    text-align: center;
+    margin-left: 80px;
+display: inline-block;
+}
+.mt70 ul{
+text-align: center;
+}
+.flex{
+display: flex;
+gap: 20px;
+justify-content: center;
+margin-bottom: 10px;
+
+}
+.link{
+    text-decoration: none;
+    color: white;
+    font-size: 32px;
+    font-weight: 600;
+}
+.flex p{
+    color: white;
+    font-size: 32px;
+    font-weight: 600;
+}
+.copymt20{
+color: white;
+text-align: center;
+margin-top: 10px;
+}
+
+
+
+ 
